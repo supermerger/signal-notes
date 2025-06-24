@@ -1,0 +1,8 @@
+{
+  "theme": "moonstone",
+  "cssTheme": "Sanctum",
+  "baseFontSize": 20,
+  "enabledCssSnippets": [
+    "width"
+  ]
+}

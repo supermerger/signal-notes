@@ -1,0 +1,16 @@
+{
+  "defaultViewMode": "preview",
+  "livePreview": false,
+  "foldHeading": false,
+  "foldIndent": false,
+  "showIndentGuide": false,
+  "spellcheck": false,
+  "trashOption": "local",
+  "promptDelete": false,
+  "newLinkFormat": "absolute",
+  "useMarkdownLinks": true,
+  "userIgnoreFilters": [
+    ".json"
+  ],
+  "alwaysUpdateLinks": true
+}
