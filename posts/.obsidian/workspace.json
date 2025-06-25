@@ -84,13 +84,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2025-06-23-1000.md",
+                "file": "soldier of peace.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "2025-06-23-1000"
+              "title": "soldier of peace"
             }
           }
         ],
@@ -195,27 +195,28 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "0a29c54f54f2fa89",
+  "active": "bfbe7e2f3cf33718",
   "lastOpenFiles": [
+    "templates/new note.md",
+    "templates/haiku.md",
+    "named/new projects.md",
+    "named/journaling.md",
+    "named/the end.md",
+    "named/social media.md",
+    "2025-06-23-1000.md",
+    "soldier of peace.md",
     "2025-06-24-1104.md",
     "tension.md",
     "artefacts.md",
     "test.md",
     "mergerverse",
-    "named/social media.md",
-    "named/the end.md",
     "2025-06-24-1155.md",
     "haiku/blue.md",
     "haiku/haiku 2025-03-11.md",
     "2025-06-23-1646.md",
     "named",
-    "2025-06-23-1000.md",
     "haiku",
-    "templates/haiku.md",
-    "templates/new note.md",
-    "named/journaling.md",
     "2025-06-24-1007.md",
-    "named/new projects.md",
     "4.md",
     "2.md",
     "3.md",
