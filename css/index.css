@@ -506,6 +506,7 @@ footer {
   align-items: center;
   padding: 2em 0;
   margin-top: 1rem;
+  min-height: 50vw;
 }
 
 .footer-text {
@@ -524,4 +525,21 @@ footer {
   color: var(--gray);
   margin-bottom: 1em;
   text-align: center;
+}
+
+
+.haiku {
+  background-color: var(--purplelightgrey);
+  border-radius: var(--corner-radius);
+  color: var(--purpleblack);
+  font-size: 1rem;
+  display: block;
+
+  width: fit-content;
+  margin: 2em auto;
+  font-style: italic;
+  line-height: 2rem;
+  padding: 4rem;
+  text-align: center;
+  font-family: Georgia, serif;
 }

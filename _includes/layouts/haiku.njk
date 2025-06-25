@@ -4,12 +4,18 @@ templateClass: tmpl-haiku
 ---
 
 
-{%- for tag in tags | filterTagList -%}
-{%- set tagUrl %}/tags/{{ tag | slug }}/{% endset -%}
-<a href="{{ tagUrl | url }}" class="post-tag ">{{ tag }}</a>
-{%- endfor %}
+<div class="post-meta">
+<time datetime="{{ page.date | htmlDateString }}">{{ page.date | htmlDateString }}</time>
+</div>
 
-<title>{{ title }}</title>
+<h2>{{ title }}</h2>
+
+<div class="tags-wrapper">
+  {%- for tag in tags | filterTagList -%}
+    {%- set tagUrl %}/tags/{{ tag | slug }}/{% endset -%}
+    <a href="{{ tagUrl | url }}" class="post-tag">{{ tag }}</a>
+  {%- endfor %}
+</div>
 
 
 <div class="haiku">
