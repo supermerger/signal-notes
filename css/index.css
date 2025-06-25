@@ -1,4 +1,5 @@
 @import url("https://fonts.googleapis.com/css2?family=Roboto+Slab&display=swap");
+@import url('https://fonts.googleapis.com/css2?family=Michroma&display=swap');
 /* Colors */
 :root {
   --lightgray: #e0e0e0;
@@ -30,15 +31,6 @@ body {
   background-color: var(--purpleblack);
 }
 
-h1,
-h2,
-h3,
-h4,
-h5,
-h6,
-header {
-  font-family: "Roboto Slab", serif;
-}
 
 p:last-child {
   margin-bottom: 0;
@@ -67,7 +59,7 @@ main :first-child {
   margin-top: 0;
 }
 header {
-  border-bottom: 1px dashed var(--lightgray);
+
   padding-bottom: 0.25em;
   padding-top: 0.25em;
   margin-bottom: 0.5em;
@@ -90,6 +82,20 @@ header:after {
 .hero > h2 {
   margin: 0;
 }
+
+h1{
+  font-size: 3rem;
+ font-family: "Michroma", sans-serif;
+ text-align: center;
+}
+
+h2{
+  font-size: 1.66rem;
+ font-family: "Michroma", sans-serif;
+  text-align: center;
+}
+
+
 
 pre,
 code {
@@ -133,6 +139,7 @@ blockquote {
   color: var(--offwhite);
   font-weight: bold;
 }
+
 .highlight-line {
   display: block;
   padding: 0.125em 1em;
@@ -164,40 +171,64 @@ blockquote {
   background-color: #902f2f;
 }
 
-/* Header */
-.home {
-  padding: 0 1rem;
-  float: left;
-  margin: 1rem 0; /* 16px /16 */
-  font-size: 1em; /* 16px /16 */
-  /* font-family: "Montserrat", sans-serif; */
+/* Header Container */
+header {
+  text-align: center;
+  padding: 1rem 0;
+
+  margin-bottom: 1em;
 }
-.home :link {
+
+/* Site Title */
+.home {
+
+  margin: 0 auto;
+  max-width: 42ch;
+}
+
+.home a {
   text-decoration: none;
+  color: inherit;
 }
 
 /* Nav */
 .nav {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  margin: 1em auto 0;
   padding: 0;
   list-style: none;
-  float: left;
-  margin-left: 1em;
+  max-width: 42ch;
 }
+
 .nav-item {
-  display: inline-block;
-  margin-right: 1em;
+  
+  font-size: small;
+  flex: none;
 }
-.nav-item a[href]:not(:hover) {
+
+.nav-item a[href] {
+  
   text-decoration: none;
+  text-transform: uppercase;
+  color: inherit;
 }
+
+.nav-item a[href]:hover {
+  text-decoration: underline;
+}
+
 .nav-item-active {
   font-weight: 700;
   text-decoration: underline;
 }
 
 .logo-nav {
-  margin-right: 5px;
+  margin-right: 0.5em;
 }
+
+
 
 /* Posts list */
 .postlist {
@@ -370,16 +401,16 @@ footer {
   display: flex;
   flex-direction: column;
   align-items: center;
-  padding: 6em 0 2em;
-  font-family: "Roboto Slab", serif;
+  padding: 10em 0 2em;
+
 }
 
 .footer-text {
-  font-size: 0.8em;
-  font-weight: bold;
+  text-align: center;
+  font-size: 0.5em;
   color: var(--gray);
   margin-bottom: 25px;
-  margin-top: 10px;
+  margin-top: 0.5rem;
 }
 
 @-webkit-keyframes rainbow {
@@ -448,4 +479,13 @@ footer {
   -z-animation: rainbow 16s ease infinite;
   -o-animation: rainbow 16s ease infinite;
   animation: rainbow 16s ease infinite;
+}
+
+
+time.post-date {
+  font-size: 0.875em;
+  color: var(--gray);
+  font-style: italic;
+  display: block;
+  margin-top: 1em;
 }
