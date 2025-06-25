@@ -6,7 +6,7 @@ templateClass: tmpl-haiku
 
 {%- for tag in tags | filterTagList -%}
 {%- set tagUrl %}/tags/{{ tag | slug }}/{% endset -%}
-<a href="{{ tagUrl | url }}" class="post-tag animated-rainbow-hover">{{ tag }}</a>
+<a href="{{ tagUrl | url }}" class="post-tag ">{{ tag }}</a>
 {%- endfor %}
 
 <title>{{ title }}</title>
@@ -25,8 +25,8 @@ templateClass: tmpl-haiku
 <br>
 <br>
 <div class="post-footer">
-  <div class="prev-post">{%- if previousPost %}&#9194; <a class="animated-rainbow-hover" href="{{ previousPost.url | url }}">{{ previousPost.data.title }}</a>{% endif %}</div>
-  <div class="next-post">{%- if nextPost %}<a class="animated-rainbow-hover" href="{{ nextPost.url | url }}">{{ nextPost.data.title }}</a> &#9193;{% endif %}</div>
+  <div class="prev-post">{%- if previousPost %}&#9194; <a class="" href="{{ previousPost.url | url }}">{{ previousPost.data.title }}</a>{% endif %}</div>
+  <div class="next-post">{%- if nextPost %}<a class="" href="{{ nextPost.url | url }}">{{ nextPost.data.title }}</a> &#9193;{% endif %}</div>
 </div>
 {%- endif %}
 {%- endif %}

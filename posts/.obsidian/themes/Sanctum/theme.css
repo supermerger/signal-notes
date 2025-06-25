@@ -114,7 +114,7 @@ body {
   --font-scale-10: 3.75rem;
 }
 body {
-  --white:
+  --purplewhite:
     253,
     254,
     254;
@@ -327,7 +327,7 @@ body {
   --background-selected-hover: rgba(var(--gray-50), .32);
   --background-inverse: rgb(var(--gray-80));
   --background-inverse-hover: rgba(var(--gray-70), .5);
-  --layer-1: rgb(var(--white));
+  --layer-1: rgb(var(--purplewhite));
   --layer-2: rgb(var(--gray-10));
   --layer-hover-1: rgb(var(--gray-10));
   --layer-hover-2: rgba(var(--gray-20), .5);
@@ -337,7 +337,7 @@ body {
   --layer-selected-2: rgb(var(--gray-20));
   --layer-selected-hover-1: rgba(var(--gray-30), .5);
   --layer-selected-hover-2: rgba(var(--gray-30), .5);
-  --field-1: rgb(var(--white));
+  --field-1: rgb(var(--purplewhite));
   --field-hover-1: rgb(var(--gray-20));
   --border-subtle-0: rgb(var(--gray-20));
   --border-subtle-1: rgb(var(--gray-20));
@@ -353,26 +353,26 @@ body {
   --text-placeholder: rgb(var(--gray-40));
   --icon-primary: rgb(var(--gray-100));
   --icon-secondary: rgb(var(--gray-70));
-  --icon-on-color: rgb(var(--white));
-  --icon-inverse: rgb(var(--white));
+  --icon-on-color: rgb(var(--purplewhite));
+  --icon-inverse: rgb(var(--purplewhite));
   --focus: var(--cyan-60);
-  --focus-inset: rgb(var(--white));
-  --focus-inverse: rgb(var(--white));
+  --focus-inset: rgb(var(--purplewhite));
+  --focus-inverse: rgb(var(--purplewhite));
   --interactive: rgb(var(--color-accent-rgb));
   --highlight: rgba(var(--color-accent-rgb), .7);
   --overlay: rgba(var(--gray-100), .5);
 }
 .theme-light.sanctum-white {
-  --background: rgb(var(--white));
+  --background: rgb(var(--purplewhite));
   --layer-1: rgb(var(--gray-10));
-  --layer-2: rgb(var(--white));
+  --layer-2: rgb(var(--purplewhite));
   --layer-hover-1: rgba(var(--gray-20), .5);
   --highlight: rgba(var(--color-accent-rgb), .7);
   --field-1: rgb(var(--gray-10));
-  --field-hover-1: rgb(var(--white));
+  --field-hover-1: rgb(var(--purplewhite));
 }
 .theme-light.sanctum-contrast-light {
-  --background-primary: rgb(var(--white));
+  --background-primary: rgb(var(--purplewhite));
 }
 .theme-dark,
 .theme-dark.sanctum-default-dark,
@@ -412,11 +412,11 @@ body {
   --text-placeholder: rgb(var(--gray-60));
   --icon-primary: rgb(var(--gray-10));
   --icon-secondary: rgb(var(--gray-30));
-  --icon-on-color: rgb(var(--white));
+  --icon-on-color: rgb(var(--purplewhite));
   --icon-inverse: rgb(var(--gray-100));
   --focus: var(--cyan-60);
   --focus-inset: rgb(var(--gray-100));
-  --focus-inverse: rgb(var(--white));
+  --focus-inverse: rgb(var(--purplewhite));
   --interactive: rgb(var(--color-accent-rgb));
   --highlight: rgba(var(--color-accent-rgb), .7);
   --overlay: rgba(var(--gray-100), .7);
@@ -491,7 +491,7 @@ body {
   --text-normal: var(--text-primary);
   --text-muted: var(--text-secondary);
   --text-faint: var(--text-placeholder);
-  --text-on-accent: rgb(var(--white));
+  --text-on-accent: rgb(var(--purplewhite));
   --text-error: var(--red);
   --text-success: var(--green);
   --text-selection: rgba(var(--color-accent-rgb), .5);
@@ -2609,7 +2609,7 @@ body {
   --toggle-border-width: 2px;
   --toggle-width: 48px;
   --toggle-radius: 100vmax;
-  --toggle-thumb-color: rgb(var(--white));
+  --toggle-thumb-color: rgb(var(--purplewhite));
   --toggle-thumb-radius: 20px;
   --toggle-thumb-height: 20px;
   --toggle-thumb-width: 20px;

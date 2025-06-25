@@ -45,6 +45,10 @@ module.exports = function (eleventyConfig) {
     return filterTagList([...tagSet]);
   });
 
+  eleventyConfig.addCollection("posts", function(collectionApi) {
+    return collectionApi.getFilteredByGlob("./posts/*.md").filter(item => !item.data.draft);
+  });
+
   eleventyConfig.addPassthroughCopy("img");
   eleventyConfig.addPassthroughCopy("css");
 

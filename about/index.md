@@ -9,3 +9,6 @@ eleventyNavigation:
 
 Part of the supermerger exosystem
 
+VIEWTYPE exists for writing.
+[MANY LIGHTS ON](example.com)
+

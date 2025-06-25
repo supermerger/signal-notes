@@ -26,7 +26,11 @@
       {#- Read more about `eleventy-navigation` at https://www.11ty.dev/docs/plugins/navigation/ #}
       <ul class="nav">
       {%- for entry in collections.all | eleventyNavigation %}
-        <li class="nav-item {% if entry.url == page.url %} nav-item-active{% endif %}"><a href="{{ entry.url | url }}">{{ entry.title }}</a></li>
+        <li class="nav-item">
+  <a href="{{ entry.url | url }}"{% if entry.url == page.url %} class="nav-item-active"{% endif %}>{{ entry.title }}</a>
+</li>
+
+        
       {%- endfor %}
       </ul>
     </header>
@@ -36,7 +40,7 @@
     </main>
 
     <footer>
-      <div><h3>{{metadata.title}}</h3></div>
+      <h2><a href="/">{{metadata.title}}</a></h2>
       <div class="footer-text">
         © 2025 {{ metadata.title }} / {{metadata.author.name}} / {{metadata.author.alias}}
         <br> All spelling mistakes are on purpose

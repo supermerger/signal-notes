@@ -5,11 +5,11 @@ layout: layouts/post.njk
 tags: meta
 ---
 
-## What is an artefact?
+### What is an artefact?
 
 An artefact in this context is a piece of writing. 
 
-## What kind of artefacts should I be producing?
+### What kind of artefacts should I be producing?
 
 They should have the following attributes:
 
