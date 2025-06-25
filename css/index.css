@@ -1,7 +1,12 @@
-@import url("https://fonts.googleapis.com/css2?family=Roboto+Slab&display=swap");
+
 @import url('https://fonts.googleapis.com/css2?family=Michroma&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=UnifrakturMaguntia&display=swap');
 /* Colors */
 :root {
+  --font-display: "Michroma", sans-serif;
+  --font-blackletter: "UnifrakturMaguntia", cursive;
+  --font-body: -apple-system, system-ui, sans-serif;
+  --font-serif: Georgia, serif;
   --lightgray: #e0e0e0;
   --gray: #c0c0c0;
   --darkgray: #333;
@@ -17,6 +22,31 @@
   --purplewhite: #E9DFEA;
   --corner-radius: 5px;
   --accent: #6F00FF;
+
+  --bg: var(--purpleblack);
+  --text: var(--purplewhite);
+  --code-bg: var(--purplewhite);
+  --code-text: var(--darkgray);
+}
+
+:root.light {
+  --bg: #fafafa;
+  --text: #111;
+  --code-bg: #eee;
+  --code-text: #222;
+  --font-display: var(--font-blackletter);
+  --font-body: var(--font-blackletter);
+}
+
+
+@media (prefers-color-scheme: light) {
+  :root {
+    --bg: #fafafa;
+    --text: #111;
+    --code-bg: #eee;
+    --code-text: #222;
+    --font-display: var(--font-blackletter);
+  }
 }
 
 /* Global stylesheet */
@@ -30,9 +60,12 @@ body {
   margin: auto;
   max-width: 42ch;
   font-family: -apple-system, system-ui, sans-serif;
-  color: var(--purplewhite);
-  background-color: var(--purpleblack);
+
+  
   min-height: 100%;
+  background-color: var(--bg);
+  color: var(--text);
+  font-family: var(--font-body);
 }
 
 a[href] {
@@ -152,23 +185,23 @@ a {
   margin: 0;
 }
 
-
+h1, h2 {
+  font-family: var(--font-display);
+}
 
 h1{
   font-size: 3rem;
- font-family: "Michroma", sans-serif;
  text-align: center;
  letter-spacing: -0.1rem;
 }
 
 h2{
   font-size: 2rem;
- font-family: "Michroma", sans-serif;
   text-align: center;
   line-height: 2.488rem;
   letter-spacing: -0.05rem;
 }
-}
+
 
 h3,h4,h5,h6{
   margin: 0;
@@ -220,8 +253,8 @@ pre {
   hyphens: none;
   padding: 1em;
   margin: 0.5em 0;
-  background-color: var(--purplewhite);
-  color: var(--darkgray);
+  background-color: var(--code-bg);
+  color: var(--code-text);
   border-radius: 5px;
 }
 code {
