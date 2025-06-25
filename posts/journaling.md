@@ -2,11 +2,11 @@
 title: journaling
 date: 2025-06-23
 layout: layouts/post.njk
-tags: meta
+tags: meta 
 ---
 
 ### the beginning
-I remember why I started journaling every day. I wanted to sift through my thoughts and see if any were worth recording. I wanted to write a regular newsletter.
+I remember why I started journaling every day. I wanted to sift through my thoughts and see if any were worth recording. I wanted to write a regular newsletter. I wanted to start [actually writing](actually%20writing.md). 
 
 I had a lot of things running around my head, and having a recording practice was helping me to resolve issues. 
 I feel that my head is more calm now. 

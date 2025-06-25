@@ -152,20 +152,48 @@ a {
   margin: 0;
 }
 
+
+
 h1{
   font-size: 3rem;
  font-family: "Michroma", sans-serif;
  text-align: center;
+ letter-spacing: -0.1rem;
 }
 
 h2{
-  font-size: 1.66rem;
+  font-size: 2rem;
  font-family: "Michroma", sans-serif;
   text-align: center;
-  line-height: 1.8rem;
+  line-height: 2.488rem;
+  letter-spacing: -0.05rem;
+}
 }
 
+h3,h4,h5,h6{
+  margin: 0;
+  padding: 0;
+}
 
+h3 {
+  font-size: 1.8rem;
+  margin-top: 2.074rem;
+}
+
+h4 {
+  font-size: 1.728rem;
+  margin-top: 1.728rem;
+}
+
+h5 {
+  font-size: 1.44rem;
+  margin-top: 1.44rem;
+}
+
+h6{
+  font-size: 1.2rem;
+  margin-top: 1.2rem;
+}
 
 pre,
 code {
@@ -382,6 +410,7 @@ a.postlist-link:hover {
 
   color: var(--purplewhite);
   padding: 0rem 1rem;
+  margin-bottom: 1rem;
   background-color: var(--purpledarkgrey);
   border-radius: var(--corner-radius);
   text-decoration: none;

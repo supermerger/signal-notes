@@ -1,6 +1,6 @@
 ---
 draft: true
-title: {{date}}-{{time:HHmm}}
+title: {{title}}
 date: {{date}}
 layout: layouts/post.njk
 ---

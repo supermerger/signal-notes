@@ -1,34 +1,25 @@
 ---
-title: 2025-06-23
+title: actually writing
 date: 2025-06-23
 layout: layouts/post.njk
-tags: meta 
+tags: 
+  - definition
+  - meta
 ---
 
-Still getting caught up in pedantry because I'm not sure *where* to write now. This place is for this thing and that place is for that thing. But no place for actually writing.
+The idea is to simply *be*, to write not with the idea to *become* anything or *show off* to anyone. 
 
-The truth is of course that any place is place for actually writing. Any time you're sitting and thinking about it and using a way to record things. Any time the process is painful and hard. Everything worth doing requires some measure of concentration. Perhaps there are people who find it easy. It is a road that has hills and valleys. Some times it's easy to go down a gradient, and other times every word is a struggle. 
+Writing in this way and being sure that the right thing to do is simply to write and publish and write and publish until the direction becomes clear.
+
+Contrasting with writing strategically: writing with an aim or an audience in mind. This is especially true in [social media](social%20media.md). 
+
+Would it be painfully obvious when I am trying to sell myself in this way to others? This is what happens on LinkedIn. I am honestly exhausted by the very idea of this. I read somewhere about marketing being like oil in food. If you can see it dripping off, then you have used too much. 
+
+Still getting caught up in [pedantry](pedantry.md) because I'm not sure *where* to write now. This place is for this thing and that place is for that thing. But no place for actually writing.
+
+The truth is of course that any place is place for *actually writing*. Any time you're sitting and thinking about it and using a way to record things. Any time the process is painful and hard. Everything worth doing requires some measure of concentration. Perhaps there are people who find it easy. It is a road that has hills and valleys. Some times it's easy to go down a gradient, and other times every word is a struggle. 
 
 The truth perhaps is that I always should have been writing, that this is where I feel like myself. I feel like I can see myself on the page. 
-
-~
-
-I want to be free of pedantry. I read the definition of pedantry and it chilled me
-
-> _the quality of being too interested in formal rules and small details that are not important_
-> 
-> https://dictionary.cambridge.org/dictionary/english/pedantry
-
-~
-
-I feel like I value minimalism and yet it is possible to be a pedant about this more than anything. If only a few things, then *which* few things and *why*. 
-
-
-Pedantry has value in the world of design. Pedantry is a form of chest beating. Not necessarily masculine but a show of territory, a demand for respect.
-
-~
-
-I'm writing about design and designers as if it applies to anyone else. When people say "people say" they are really talking about themselves. Any opinion ascribed to a generalised third party is the opinion of the first party. 
 
 ~
 
@@ -36,7 +27,7 @@ I was writing an essay on epistemology and design. I should pick it up again. I 
 
 ~
 
-Trying to fix pedantry is meta-pedantry. It's replacing correctness with non-correctness. Ego maintenance. 
+
 
 ~
 
@@ -57,7 +48,7 @@ Just enormously frustrated trying to get the blog actually working. Using GPT to
 
 ~
 
-I'm feeling extremely frustrated with things. I feel like I am rushing perhaps. That getting into doing things takes a long time. That I'm not sure what it is that I should be doing when even get there. This leads to a feeling that I often have that I am wasting my time with whatever I am doing. Whatever I am doing seems to be the wrong thing to do. This has to do with my individual tolerance for ambiguity. There is a tension there between the system and freedom. If there was a system I would quickly become sick of it and rebel against it. If there is no system at all then I feel uncomfortable in the ambiguity. Ultimately however it is not whether there is a system at all that is the issue, it is how one chooses to see things.
+I'm feeling extremely frustrated with things. I feel like I am rushing perhaps. That getting into doing things takes a long time. That I'm not sure what it is that I should be doing when even get there. This leads to a feeling that I often have that I am wasting my time with whatever I am doing. Whatever I am doing seems to be the wrong thing to do. This has to do with my individual tolerance for ambiguity. There is a [tension](tension.md) there between the system and freedom. If there was a system I would quickly become sick of it and rebel against it. If there is no system at all then I feel uncomfortable in the ambiguity. Ultimately however it is not whether there is a system at all that is the issue, it is how one chooses to see things.
 
 Another tension: between that which strives, and that which surrenders. To strive is to actively enforce will upon the universe. To surrender is to let yourself be carried by outside forces. The striving is externalising thought, the surrender is internalising the universe. Perhaps then it is like breath itself, a constant intercourse between these things. A skilful person could turn this interplay into a dance. 
 

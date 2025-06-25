@@ -3,6 +3,8 @@ draft: true
 title: 2025-06-24-1042
 date: 2025-06-24
 layout: layouts/post.njk
+tags: 
+  - definition
 ---
 
 All social media is attention seeking.

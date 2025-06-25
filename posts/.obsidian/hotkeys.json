@@ -1,7 +1,14 @@
 {
   "file-explorer:new-file-in-new-pane": [],
   "editor:delete-paragraph": [],
-  "editor:follow-link": [],
+  "editor:follow-link": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "Enter"
+    }
+  ],
   "workspace:goto-last-tab": [],
   "workspace:next-tab": [],
   "workspace:previous-tab": [],
@@ -13,8 +20,22 @@
   "workspace:goto-tab-6": [],
   "workspace:goto-tab-7": [],
   "workspace:goto-tab-8": [],
-  "app:go-back": [],
-  "app:go-forward": [],
+  "app:go-back": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "ArrowLeft"
+    }
+  ],
+  "app:go-forward": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "ArrowRight"
+    }
+  ],
   "note-composer:extract-heading": [
     {
       "modifiers": [
@@ -130,5 +151,6 @@
       ],
       "key": "M"
     }
-  ]
+  ],
+  "editor:open-link-in-new-leaf": []
 }

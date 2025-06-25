@@ -1,7 +1,10 @@
 ---
-title: 2025-06-24-0857
+title: dodging
 date: 2025-06-24
 layout: layouts/post.njk
+description: it's more fun to say than procrastination
+tags:
+  - definition
 ---
 
 It's easy to know the stuff that is dodging. Right now I think I am dodging something. Am I feeling guilty that I am not working on something with a container? 
@@ -9,7 +12,6 @@ Perhaps there should be balance here by being at either end of the tension. You 
 The tension comes is between the formal and the casual. Making a container and then bouncing off the walls.
 
 #### Containers
-
 A container for writing is some kind of formal aspect. 
 - number of words
 - subject
@@ -17,7 +19,6 @@ A container for writing is some kind of formal aspect.
 - content
 
 #### Dodging
-
 The trouble comes from containers as I will try to dodge out of them. There will always be some kind of well reasoned excuse to get out of doing it, despite the upsides. The downsides are almost always related to self protection of ego. The process of writing is very revealing to the very essence of the writer, at least it should be if it is done well. 
 
 

@@ -3,7 +3,9 @@ draft: false
 title: the end
 date: 2025-06-24
 layout: layouts/post.njk
-tags: meta
+description: it's not fun if you're not thinking about the end
+tags: 
+  - meta
 ---
 
 More pedantry:
@@ -40,8 +42,6 @@ Each has a place. Structured activity is like a recipe and produces an artefact.
 
 
 
-There is meta and there is *meta*
 
-[journaling](named/journaling.md)
 
-f
+

@@ -1,5 +1,5 @@
 {
-  "defaultViewMode": "preview",
+  "defaultViewMode": "source",
   "livePreview": false,
   "foldHeading": false,
   "foldIndent": false,
@@ -12,5 +12,6 @@
   "userIgnoreFilters": [
     ".json"
   ],
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "tabSize": 2
 }
