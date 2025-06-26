@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "templates/haiku.md",
+                "file": "burnout.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "haiku"
+              "title": "burnout"
             }
           }
         ]
@@ -85,13 +85,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "templates/haiku.md",
+                "file": "burnout.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of haiku"
+              "title": "Outline of burnout"
             }
           },
           {
@@ -123,36 +123,36 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "bfbe7e2f3cf33718",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "2025-06-26-1042.md",
+    "exosystem.md",
+    "force.md",
+    "journaling.md",
+    "new projects.md",
+    "pattern.md",
+    "pedantry.md",
+    "social media.md",
+    "soldier of peace.md",
+    "stress test.md",
+    "supermerger.md",
+    "tension.md",
+    "the end.md",
+    "The Glass Bead Game.md",
+    "to the top.md",
+    "typography.md",
+    "world building.md",
+    "Untitled.md",
+    "templates/haiku.md",
     "2025-06-26-0634.md",
     "templates/-new note.md",
-    "templates/haiku.md",
     "META/home.md",
     "META/drafts.md",
-    "force.md",
-    "Untitled.md",
-    "to the top.md",
-    "pattern.md",
     "coherence.md",
-    "world building.md",
-    "2025-06-26-1042.md",
     "critical mass.md",
-    "social media.md",
     "actually writing.md",
-    "tension.md",
-    "burnout.md",
     "hidden",
-    "artefacts.md",
-    "xythll.md",
-    "supermerger.md",
-    "2025-06-23-1646.md",
-    "The Glass Bead Game.md",
     "META",
-    "2025-06-26-0622.md",
-    "2025-06-24-1104.md",
-    "ambiguity.md",
-    "design.md",
     "mergerverse",
     "mergerverse",
     "named",

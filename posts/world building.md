@@ -1,3 +1,16 @@
+---
+draft: true
+date: 2025-06-26
+title: world building
+layout: layouts/post.njk
+tags:
+  - definition
+  - meta
+---
+%%
+HAVE AN OPINION OR DELETE
+%%
+
 ### world building
 Think of the world that you want to create. 
 Then imagine characters haunting that place.
