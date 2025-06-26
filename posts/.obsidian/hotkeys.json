@@ -36,15 +36,15 @@
       "key": "ArrowRight"
     }
   ],
-  "note-composer:extract-heading": [
+  "markdown:toggle-preview": [
     {
       "modifiers": [
-        "Mod"
+        "Mod",
+        "Shift"
       ],
       "key": "E"
     }
   ],
-  "markdown:toggle-preview": [],
   "workspace:undo-close-pane": [],
   "editor:toggle-checklist-status": [],
   "editor:set-heading-1": [
@@ -152,5 +152,13 @@
       "key": "M"
     }
   ],
-  "editor:open-link-in-new-leaf": []
+  "editor:open-link-in-new-leaf": [],
+  "editor:toggle-source": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "E"
+    }
+  ]
 }

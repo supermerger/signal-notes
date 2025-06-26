@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2025-06-23-1646.md",
+                "file": "The Glass Bead Game.md",
                 "mode": "source",
-                "source": true,
+                "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "2025-06-23-1646"
+              "title": "The Glass Bead Game"
             }
           }
         ]
@@ -125,9 +125,15 @@
   },
   "active": "b9260b53cb65b1da",
   "lastOpenFiles": [
+    "META/drafts.md",
+    "The Glass Bead Game.md",
+    "2025-06-26-0622.md",
+    "ambiguity.md",
+    "META",
+    "2025-06-26-0634.md",
+    "2025-06-23-1646.md",
     "2025-06-24-1104.md",
     "actually writing.md",
-    "ambiguity.md",
     "artefacts.md",
     "design.md",
     "detachment.md",
@@ -145,13 +151,8 @@
     "typography.md",
     "mergerverse/xythll.md",
     "templates/haiku.md",
-    "2025-06-23-1646.md",
     "haiku/haiku 2025-05-11.md",
-    "templates/-new note.md",
     "mergerverse",
-    "haiku/haiku 2025-03-11.md",
-    "something.md",
-    "templates/test.md",
     "mergerverse",
     "named",
     "haiku",
