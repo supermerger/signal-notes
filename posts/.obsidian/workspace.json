@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "META/home.md",
+                "file": "templates/haiku.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "home"
+              "title": "haiku"
             }
           }
         ]
@@ -85,13 +85,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "META/home.md",
+                "file": "templates/haiku.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of home"
+              "title": "Outline of haiku"
             }
           },
           {
@@ -123,11 +123,13 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "bfbe7e2f3cf33718",
   "lastOpenFiles": [
-    "META/drafts.md",
-    "META/home.md",
+    "2025-06-26-0634.md",
     "templates/-new note.md",
+    "templates/haiku.md",
+    "META/home.md",
+    "META/drafts.md",
     "force.md",
     "Untitled.md",
     "to the top.md",
@@ -147,12 +149,10 @@
     "2025-06-23-1646.md",
     "The Glass Bead Game.md",
     "META",
-    "2025-06-26-0634.md",
     "2025-06-26-0622.md",
     "2025-06-24-1104.md",
     "ambiguity.md",
     "design.md",
-    "detachment.md",
     "mergerverse",
     "mergerverse",
     "named",
