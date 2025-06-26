@@ -26,7 +26,13 @@ One of the tensions in freelance life is between validation and autonomy.
 
 I am constantly creating systems then rebelling against the system. 
 
+
+
 #### Tensions
+
+#### supermerger and Jh
+There's definitely a tension between the work I am called to be doing and the work that I get paid for. 
+
 ##### Letting a Project Develop vs Staying True to the Vision
 aka the growth breaks the frame
 

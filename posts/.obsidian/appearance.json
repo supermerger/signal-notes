@@ -1,10 +1,12 @@
 {
-  "theme": "obsidian",
+  "theme": "moonstone",
   "cssTheme": "Sanctum",
   "baseFontSize": 20,
   "enabledCssSnippets": [
     "width"
   ],
   "interfaceFontFamily": "",
-  "textFontFamily": "serif"
+  "textFontFamily": "serif",
+  "showRibbon": false,
+  "nativeMenus": false
 }
