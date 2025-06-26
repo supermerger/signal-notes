@@ -1,44 +1,28 @@
 {
   "main": {
-    "id": "617afff663141475",
+    "id": "5324373015726ba8",
     "type": "split",
     "children": [
       {
-        "id": "aa36e06e408b2b11",
+        "id": "4509724f8bf84da7",
         "type": "tabs",
         "children": [
           {
-            "id": "2684aba1c5641a2e",
+            "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "coherence.md",
+                "file": "force.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "coherence"
-            }
-          },
-          {
-            "id": "7a5ded56f419ffd6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "to the top.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "to the top"
+              "title": "force"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -102,13 +86,28 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "to the top.md",
+                "file": "force.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of to the top"
+              "title": "Outline of force"
+            }
+          },
+          {
+            "id": "e23fe0f7facdd327",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           }
         ]
@@ -125,14 +124,15 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "7a5ded56f419ffd6",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "pattern.md",
     "META/home.md",
+    "Untitled.md",
+    "to the top.md",
+    "pattern.md",
     "coherence.md",
     "world building.md",
     "2025-06-26-1042.md",
-    "to the top.md",
     "critical mass.md",
     "social media.md",
     "actually writing.md",
@@ -154,7 +154,6 @@
     "design.md",
     "detachment.md",
     "dodging.md",
-    "exosystem.md",
     "mergerverse",
     "mergerverse",
     "named",
