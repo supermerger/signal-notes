@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "force.md",
+                "file": "templates/-new note.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "force"
+              "title": "-new note"
             }
           }
         ]
@@ -86,13 +86,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "force.md",
+                "file": "templates/-new note.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of force"
+              "title": "Outline of -new note"
             }
           },
           {
@@ -126,6 +126,7 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "force.md",
     "META/home.md",
     "Untitled.md",
     "to the top.md",
@@ -153,7 +154,6 @@
     "ambiguity.md",
     "design.md",
     "detachment.md",
-    "dodging.md",
     "mergerverse",
     "mergerverse",
     "named",
