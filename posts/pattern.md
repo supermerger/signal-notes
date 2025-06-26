@@ -6,3 +6,4 @@ layout: layouts/post.njk
 tags:
   - definition
 ---
+Patterns hang together when other things do not.
