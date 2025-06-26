@@ -4,41 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "a07ae04f7cb44cb6",
+        "id": "8344bfe4ad2da4ce",
         "type": "tabs",
         "children": [
           {
-            "id": "5e604617f808711e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2025-06-26-1042.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "2025-06-26-1042"
-            }
-          },
-          {
-            "id": "512e2915151216f3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "social media.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "social media"
-            }
-          },
-          {
-            "id": "11e2ae9de0cff1a1",
+            "id": "fdaa82a91c2d4e77",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -52,8 +22,7 @@
               "title": "2025-06-26-1042"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -140,14 +109,17 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "11e2ae9de0cff1a1",
+  "active": "fdaa82a91c2d4e77",
   "lastOpenFiles": [
+    "critical mass.md",
+    "2025-06-26-1042.md",
     "META/home.md",
     "social media.md",
-    "tension.md",
+    "pattern.md",
+    "coherence.md",
     "actually writing.md",
+    "tension.md",
     "burnout.md",
-    "2025-06-26-1042.md",
     "hidden",
     "artefacts.md",
     "templates/-new note.md",
@@ -167,9 +139,6 @@
     "exosystem.md",
     "force.md",
     "journaling.md",
-    "new projects.md",
-    "pedantry.md",
-    "soldier of peace.md",
     "mergerverse",
     "mergerverse",
     "named",
