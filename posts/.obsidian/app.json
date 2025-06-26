@@ -13,5 +13,6 @@
     ".json"
   ],
   "alwaysUpdateLinks": true,
-  "tabSize": 2
+  "tabSize": 2,
+  "showInlineTitle": true
 }

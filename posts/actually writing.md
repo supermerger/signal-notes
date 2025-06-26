@@ -7,17 +7,26 @@ tags:
   - meta
 ---
 
+##### Keep writing until there's nothing left.
+##### (There's always something left)
+
 The idea is to simply *be*, to write not with the idea to *become* anything or *show off* to anyone. 
 
-Writing in this way and being sure that the right thing to do is simply to write and publish and write and publish until the direction becomes clear.
+Mechanically practice writing until you have insane muscle memory connecting the brain and the words fizz off the fingers.
 
-Contrasting with writing strategically: writing with an aim or an audience in mind. This is especially true in [social media](social%20media.md). 
+Being sure that the right thing to do is simply to write and publish and write and publish until the direction becomes clear.
 
-Would it be painfully obvious when I am trying to sell myself in this way to others? This is what happens on LinkedIn. I am honestly exhausted by the very idea of this. I read somewhere about marketing being like oil in food. If you can see it dripping off, then you have used too much. 
+Any place is a good place for *actually writing*. Any time you're sitting and thinking about it and using a way to record things. 
 
-Still getting caught up in [pedantry](pedantry.md) because I'm not sure *where* to write now. This place is for this thing and that place is for that thing. But no place for actually writing.
+Rule system is emergent
+Temporary rules for set pieces or desired outcomes
 
-The truth is of course that any place is place for *actually writing*. Any time you're sitting and thinking about it and using a way to record things. Any time the process is painful and hard. Everything worth doing requires some measure of concentration. Perhaps there are people who find it easy. It is a road that has hills and valleys. Some times it's easy to go down a gradient, and other times every word is a struggle. 
+---
+
+
+Writing strategically: writing with an aim or an audience in mind. This is especially true in [social media](social%20media.md). 
+
+Any time the process is painful and hard. Everything worth doing requires some measure of concentration. Perhaps there are people who find it easy. It is a road that has hills and valleys. Some times it's easy to go down a gradient, and other times every word is a struggle. 
 
 The truth perhaps is that I always should have been writing, that this is where I feel like myself. I feel like I can see myself on the page. 
 
@@ -29,10 +38,7 @@ I was writing an essay on epistemology and design. I should pick it up again. I 
 
 
 
-~
-
-Perhaps I will just have an open note for the day and then put things in it as I go along and think of things? Perhaps there will be no rules at all other than those which emerge.
-
+Perhaps I will just have an open note for the day and then put things in it as I go along and think of things? Perhaps there will be
 ~
 
 I should be mindful that writing here in a blog that nobody will really read stops one important side of online writing -- feedback loops. It's hard to know whether or not something resonates with anyone if you are forever shouting into the void. The exercise at the moment however is just getting used to the habit of writing and publishing. The exercise is just to remove the friction between writing and getting things out there. Perhaps it is cowardly to do it this way and almost avoid eyes.
@@ -56,7 +62,7 @@ Imagine a state on a gradient that runs from chaos to order, or structure to rup
 
 ~
 
-Keep writing until there's nothing left. (There's always something left)
+
 
 ~
 

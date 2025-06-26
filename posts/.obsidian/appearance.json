@@ -8,5 +8,6 @@
   "interfaceFontFamily": "",
   "textFontFamily": "serif",
   "showRibbon": false,
-  "nativeMenus": false
+  "nativeMenus": false,
+  "showViewHeader": false
 }
