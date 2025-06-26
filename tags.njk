@@ -14,6 +14,7 @@ layout: layouts/home.njk
 eleventyComputed:
   title: "Tagged {{ tag }}"
   permalink: "tags/{{ tag | slug }}/"
+  eleventyExcludeFromCollections: true
 ---
 {# permalink: /tags/{{ tag | slug }}/ #}
 <h4 class="centered"><span class="tag-name-title">{{ tag }}</span></h4>
