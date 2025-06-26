@@ -37,13 +37,17 @@ module.exports = function (eleventyConfig) {
 
   eleventyConfig.addFilter("filterTagList", filterTagList);
 
-  eleventyConfig.addCollection("tagList", function (collection) {
-    let tagSet = new Set();
-    collection.getAll().forEach(item => {
-      (item.data.tags || []).forEach(tag => tagSet.add(tag));
-    });
-    return filterTagList([...tagSet]);
+eleventyConfig.addCollection("tagList", function (collection) {
+  let tagSet = new Set();
+  collection.getAll().forEach(item => {
+    if ("tags" in item.data) {
+      let tags = item.data.tags;
+      tags = Array.isArray(tags) ? tags : [tags];
+      tags.forEach(tag => tagSet.add(tag));
+    }
   });
+  return [...tagSet];
+});
 
   eleventyConfig.addCollection("posts", function(collectionApi) {
     return collectionApi.getFilteredByGlob("./posts/*.md").filter(item => !item.data.draft);
