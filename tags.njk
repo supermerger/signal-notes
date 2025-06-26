@@ -19,10 +19,11 @@ eleventyComputed:
 {# permalink: /tags/{{ tag | slug }}/ #}
 <h4 class="centered"><span class="tag-name-title">{{ tag }}</span></h4>
 
-{% for post in pagination.items %}
+{# {% for post in pagination.items %}
   <a href="{{ post.url }}">{{ post.data.title }}</a>
-{% endfor %}
+{% endfor %} #}
 
-{% include "postslist.njk" with { postslist: pagination.items } %}
+{% set postslist = pagination.items %}
+{% include "postslist.njk" %}
 
 <p class="centered"><a href="{{ '/tags/' | url }}">ALL TAGS</a></p>
