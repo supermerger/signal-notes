@@ -31,9 +31,18 @@ module.exports = function (eleventyConfig) {
     return Math.min.apply(null, numbers);
   });
 
-  function filterTagList(tags) {
-    return (tags || []).filter(tag => ["all", "nav", "post", "posts"].indexOf(tag) === -1);
-  }
+  eleventyConfig.addCollection("tagList", function (collection) {
+  let tagSet = new Set();
+  collection.getAll().forEach(item => {
+    if ("tags" in item.data) {
+      let tags = item.data.tags;
+      tags = Array.isArray(tags) ? tags : [tags];
+      tags.forEach(tag => tagSet.add(tag));
+    }
+  });
+  return [...new Set([...tagSet])];
+});
+
 
   eleventyConfig.addFilter("filterTagList", filterTagList);
 
