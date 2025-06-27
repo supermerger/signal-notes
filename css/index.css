@@ -33,6 +33,11 @@
   --chamfer-top-right: 0;
   --chamfer-bottom-right: 0;
   --chamfer-bottom-left: 0;
+
+  --btn-bg-dark: var(--purplemidgrey);
+  --btn-bg-light: var(--lightgray);
+  --btn-fg-dark: var(var(--purplewhite))
+  --btn-fg-light: var(--purpleblack);
 }
 
 :root.light {
@@ -620,3 +625,22 @@ footer {
   font-family: Georgia, serif;
 }
 
+.toggle-button {
+  position: fixed;
+  bottom: 1rem;
+  right: 1rem;
+  width: 3rem;
+  height: 3rem;
+  border-radius: 50%;
+  border: none;
+  font-size: 1.5rem;
+  cursor: pointer;
+  z-index: 999;
+  background-color: var(--btn-bg-dark);
+  color: var(--btn-fg-dark);
+}
+
+:root.light .toggle-button {
+  background-color: var(--btn-bg-light);
+  color: var(--btn-fg-light);
+}
