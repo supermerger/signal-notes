@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "making a claim.md",
+                "file": "pedantry.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "making a claim"
+              "title": "pedantry"
             }
           }
         ]
@@ -85,13 +85,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "making a claim.md",
+                "file": "pedantry.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of making a claim"
+              "title": "Outline of pedantry"
             }
           },
           {
@@ -125,9 +125,9 @@
   },
   "active": "b3ce33f9967da87d",
   "lastOpenFiles": [
+    "making a claim.md",
     "hidden/2025-06-24-1104.md",
     "hidden/2025-06-23-1646.md",
-    "making a claim.md",
     "2025-06-26-1042.md",
     "2025-06-26-0634.md",
     "actually writing.md",
