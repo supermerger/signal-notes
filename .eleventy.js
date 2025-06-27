@@ -6,6 +6,10 @@ const pluginNavigation = require("@11ty/eleventy-navigation");
 const markdownIt = require("markdown-it");
 const markdownItAnchor = require("markdown-it-anchor");
 
+function filterTagList(tags) {
+  return (tags || []).filter(tag => ["all", "nav", "post", "posts"].indexOf(tag) === -1);
+}
+
 module.exports = function (eleventyConfig) {
   eleventyConfig.addPlugin(pluginRss);
   eleventyConfig.addPlugin(pluginSyntaxHighlight);
@@ -31,34 +35,21 @@ module.exports = function (eleventyConfig) {
     return Math.min.apply(null, numbers);
   });
 
-  eleventyConfig.addCollection("tagList", function (collection) {
-  let tagSet = new Set();
-  collection.getAll().forEach(item => {
-    if ("tags" in item.data) {
-      let tags = item.data.tags;
-      tags = Array.isArray(tags) ? tags : [tags];
-      tags.forEach(tag => tagSet.add(tag));
-    }
-  });
-  return [...new Set([...tagSet])];
-});
-
-
   eleventyConfig.addFilter("filterTagList", filterTagList);
 
-eleventyConfig.addCollection("tagList", function (collection) {
-  let tagSet = new Set();
-  collection.getAll().forEach(item => {
-    if ("tags" in item.data) {
-      let tags = item.data.tags;
-      tags = Array.isArray(tags) ? tags : [tags];
-      tags.forEach(tag => tagSet.add(tag));
-    }
+  eleventyConfig.addCollection("tagList", function (collection) {
+    let tagSet = new Set();
+    collection.getAll().forEach(item => {
+      if ("tags" in item.data) {
+        let tags = item.data.tags;
+        tags = Array.isArray(tags) ? tags : [tags];
+        tags.forEach(tag => tagSet.add(tag));
+      }
+    });
+    return [...new Set([...tagSet])];
   });
-  return [...tagSet];
-});
 
-  eleventyConfig.addCollection("posts", function(collectionApi) {
+  eleventyConfig.addCollection("posts", function (collectionApi) {
     return collectionApi.getFilteredByGlob("./posts/*.md").filter(item => !item.data.draft);
   });
 
