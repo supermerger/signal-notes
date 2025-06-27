@@ -15,6 +15,12 @@ templateClass: tmpl-post
   {%- endfor %}
 </div>
 
+{% if description %}
+  <div class="subtitle">
+    {{ description }}
+  </div>
+{% endif %}
+
 {{ content | safe }}
 
 {%- if collections.posts %}

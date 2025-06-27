@@ -3,6 +3,8 @@ title: typography
 date: 2025-06-25
 layout: layouts/post.njk
 description: just to test the typography on the website
+tags: 
+  - untagged
 ---
 
 ### h1 (h3) d

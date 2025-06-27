@@ -1,6 +1,3 @@
 [build]
-  command = "DEBUG=* eleventy"
   publish = "_site"
-
-[build.environment]
-  NODE_VERSION = "18"
+  command = "DEBUG=* eleventy"

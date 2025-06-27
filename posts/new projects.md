@@ -1,8 +1,14 @@
 ---
-title: new projects
+draft: true
 date: 2025-06-23
+title: new projects
 layout: layouts/post.njk
+tags:
+  - meta
 ---
+%%
+HAVE AN OPINION OR DELETE
+%%
 ### Don't throw yourself into a new project straight away.
 
 Ambiguity between spaces is a good place, it's a place for rotting. Break down the ideas and the concepts of the old. Break them into little pieces and re-assemble everything. Discover yourself as a writer. You are the one that writes, not the one that reads. In time, the imagination and motivation will find you. Concentrate instead on building the habits of a writer. Mainly this means training your brain and your fingers and everything else to become a straight pipe from the brain to the page. Something that happens at the speed of thought. This will make the later stages of actually finishing something much easier. 

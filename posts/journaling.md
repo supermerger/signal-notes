@@ -2,7 +2,8 @@
 title: journaling
 date: 2025-06-23
 layout: layouts/post.njk
-tags: meta 
+tags: 
+  - meta 
 ---
 
 ### the beginning

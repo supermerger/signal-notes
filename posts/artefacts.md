@@ -9,7 +9,7 @@ tags:
 
 ### What is an artefact?
 
-An artefact in this context is a piece of writing. yea
+An artefact in this context is a piece of writing. 
 
 ### What kind of artefacts should I be producing?
 

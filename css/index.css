@@ -14,6 +14,7 @@
   --navy: #17050f;
   --blue: #082840;
 
+  /* MY COLOURS */
   --lightblue: #9CF0FF;
   --purpleblack: #120D15;
   --purpledarkgrey: #48424a;
@@ -27,6 +28,16 @@
   --text: var(--purplewhite);
   --code-bg: var(--purplewhite);
   --code-text: var(--darkgray);
+
+  --chamfer-top-left: 0.7rem;
+  --chamfer-top-right: 0;
+  --chamfer-bottom-right: 0;
+  --chamfer-bottom-left: 0;
+
+  --btn-bg-dark: var(--purplemidgrey);
+  --btn-bg-light: var(--lightgray);
+  --btn-fg-dark: var(var(--purplewhite))
+  --btn-fg-light: var(--purpleblack);
 }
 
 :root.light {
@@ -63,9 +74,19 @@ body {
 
   
   min-height: 100%;
+  height: 100%;
   background-color: var(--bg);
   color: var(--text);
   font-family: var(--font-body);
+}
+
+body {
+  display: flex;
+  flex-direction: column;
+}
+
+main {
+  flex: 1;
 }
 
 a[href] {
@@ -109,12 +130,11 @@ a[href] {
 }
 
 /* Add box to <p> links and .post-tag links */
-p a[href],
-a.post-tag {
-  background-color: var(--purpledarkgrey);
-  padding-left: 0.3rem;
-  padding-right: 0.3rem;
-  border-radius: var(--corner-radius);
+p a[href] {
+ 
+ border-bottom: 2px var(--purplemidgrey) solid;
+ 
+  
 }
 
 
@@ -164,13 +184,20 @@ header:after {
   clear: both;
 }
 
-.hero {
-  padding: 2em;
-  background: rgb(2, 0, 36);
-  background: linear-gradient(238deg, #0080ff, #00f, #8000ff);
-  border-radius: 5px;
-  color: var(--purplewhite);
-  box-shadow: black 5px 5px 2px;
+.subtitle {
+  padding: 1em;
+  text-align: center;
+  margin: 1rem 0rem;
+
+  color: var(--purplemidgrey);
+}
+
+.description-home
+{
+  margin-top: 1.618rem;
+  color: var(--purplemidgrey);
+  
+
 }
 
 a {
@@ -181,8 +208,8 @@ a {
 
 
 
-.hero > h2 {
-  margin: 0;
+.subtitle > h2 {
+  margin: 0rem;
 }
 
 h1, h2 {
@@ -255,7 +282,7 @@ pre {
   margin: 0.5em 0;
   background-color: var(--code-bg);
   color: var(--code-text);
-  border-radius: 5px;
+  border-radius: var(--corner-radius);
 }
 code {
   word-break: break-all;
@@ -305,9 +332,8 @@ blockquote {
 /* Header Container */
 header {
   text-align: center;
-  padding: 1rem 0;
 
-  margin-bottom: 1em;
+  
 }
 
 /* Site Title */
@@ -383,6 +409,7 @@ header {
   display: flex;
   flex-direction: column;
   align-items: center;
+  border-top: var(--purpledarkgrey) 1px solid;
 }
 
 .postlist-item {
@@ -430,30 +457,37 @@ a.postlist-link:hover {
   text-align: center;
 }
 
-.post-tag {
+.tags-container {
+  margin-bottom: 5em;
+  text-align: center;
+}
+
+.post-tag,
+a[href].post-tag,
+a[href].post-tag:visited,
+.tag-name-title {
   display: inline-flex;
   align-items: center;
   justify-content: center;
   text-transform: lowercase;
-  font-size: .8em;
+  font-size: 0.618rem;
+  line-height: 2.3rem;
+  padding: 0 1rem;
 
-  color: var(--purplewhite);
-  padding: 0rem 1rem;
-  margin-bottom: 1rem;
-  background-color: var(--purpledarkgrey);
-  border-radius: var(--corner-radius);
   text-decoration: none;
-  line-height: 2rem;
-}
-
-.post-tag-xl{
-  font-size: 3rem;
-line-height: 1.8rem;
-padding: 2rem;
-margin: .5rem;
+  color: var(--purplelightgrey);
+  background-color: var(--purpledarkgrey);
+   border-radius: var(--corner-radius);
+   margin: 0rem 0.618rem;
 }
 
 
+.post-tag-xl {
+scale: 1.618;
+margin: 0 1.618rem !important;
+  color: var(--purplewhite) !important;
+  background-color: var(--purplemidgrey) !important;
+}
 
 .tag-name-title {
     font-weight: 700;
@@ -461,18 +495,17 @@ margin: .5rem;
   background-color: var(--purplewhite);
   color: var(--purpleblack);
   padding: 0.3em 0.7em;
-  border-radius: var(--corner-radius);
+  /* border-radius: var(--corner-radius); */
 }
 
-a[href].post-tag,
-a[href].post-tag:visited {
-  color: inherit;
-}
+
 
 .postlist-item > .post-tag {
   align-self: center;
   
 }
+
+
 
 /* Direct Links / Markdown Headers */
 .direct-link {
@@ -550,9 +583,6 @@ p > code {
   color: var(--darkgray);
 }
 
-.tags-container {
-  margin-bottom: 5em;
-}
 
 footer {
   color: var(--purpledarkgrey) !important;
@@ -565,6 +595,8 @@ footer {
   padding: 2em 0;
   margin-top: 1rem;
   min-height: 50vw;
+  box-sizing: border-box;
+  position: relative;
 }
 
 .footer-text {
@@ -574,8 +606,6 @@ footer {
   margin-bottom: 25px;
   margin-top: 0.5rem;
 }
-
-
 
 .post-meta time {
   display: block;
@@ -600,4 +630,24 @@ footer {
   padding: 4rem;
   text-align: center;
   font-family: Georgia, serif;
+}
+
+.toggle-button {
+  position: fixed;
+  bottom: 1rem;
+  right: 1rem;
+  width: 3rem;
+  height: 3rem;
+  border-radius: 50%;
+  border: none;
+  font-size: 1.5rem;
+  cursor: pointer;
+  z-index: 999;
+  background-color: var(--btn-bg-dark);
+  color: var(--btn-fg-dark);
+}
+
+:root.light .toggle-button {
+  background-color: var(--btn-bg-light);
+  color: var(--btn-fg-light);
 }
