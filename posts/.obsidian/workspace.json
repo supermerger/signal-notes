@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "to the top.md",
+                "file": "tension.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "to the top"
+              "title": "tension"
             }
           }
         ]
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "ea8ddbf4e018dae0",
@@ -85,13 +86,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "to the top.md",
+                "file": "tension.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of to the top"
+              "title": "Outline of tension"
             }
           },
           {
@@ -125,8 +126,10 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "writing fiction.md",
+    "ambiguity.md",
+    "tension.md",
     "to the top.md",
+    "writing fiction.md",
     "world building.md",
     "META/home.md",
     "burnout.md",
@@ -141,7 +144,6 @@
     "soldier of peace.md",
     "stress test.md",
     "supermerger.md",
-    "tension.md",
     "the end.md",
     "The Glass Bead Game.md",
     "typography.md",
@@ -150,7 +152,6 @@
     "templates/-new note.md",
     "META/drafts.md",
     "coherence.md",
-    "critical mass.md",
     "hidden",
     "META",
     "mergerverse",

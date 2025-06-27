@@ -3,7 +3,8 @@
   "cssTheme": "Sanctum",
   "baseFontSize": 20,
   "enabledCssSnippets": [
-    "width"
+    "width",
+    "mono-all"
   ],
   "interfaceFontFamily": "",
   "textFontFamily": "serif",

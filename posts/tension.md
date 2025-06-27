@@ -24,16 +24,17 @@ Forces can either be push or pull forces.
 
 One of the tensions in freelance life is between validation and autonomy. 
 
-I am constantly creating systems then rebelling against the system. 
 
 
 
-#### Tensions
+### Tensions
+
+#### Logic and emotion
 
 #### supermerger and Jh
 There's definitely a tension between the work I am called to be doing and the work that I get paid for. 
 The purple of supermerger and the orange of Jh.
-If I was into astrology I would say that it is because I am a gemini.
+
 
 ##### Letting a Project Develop vs Staying True to the Vision
 aka the growth breaks the frame
@@ -45,6 +46,10 @@ Therefore I try to offload as much of it as possible into a system that takes le
 The trouble comes from when the system *works*. I can no longer apply [stress test](stress%20test.md)ing. It has passed, and it is now fully sublimated. 
 
 It is interesting to me that I define systems as something that reduces friction and ambiguity. What happens if I flip this around? A system increases fluidity and certainty. Framing it in this way means we are transforming the [force](force.md) from a push force into a pull force. 
+
+I am constantly creating systems then rebelling against the system. 
+
+Inventing a set of rules then feeling bound by them
 
 #####  Autonomy vs Validation
 The freelancer tension.

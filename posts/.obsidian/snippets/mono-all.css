@@ -1,0 +1,15 @@
+/* Sanctum: Remove font hierarchy and unify font style in editor */
+.markdown-source-view.mod-cm6 .cm-scroller {
+  font-family: monospace !important;
+  font-size: 1rem !important;
+  line-height: 1.6 !important;
+}
+
+.markdown-source-view.mod-cm6 .cm-line,
+.markdown-source-view.mod-cm6 .cm-header,
+.markdown-source-view.mod-cm6 .cm-formatting-header {
+  font-family: monospace !important;
+  font-size: inherit !important;
+  font-weight: normal !important;
+  line-height: inherit !important;
+}
