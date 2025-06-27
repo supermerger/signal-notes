@@ -8,12 +8,18 @@ tags:
   - meta
 ---
 ### facts
+
+The interlink is a synthetic overlay that profoundly influences the world that is perceived. 
+
+upperworld spirits can control the interlink
+middleverse spirits cannot control the interlink
+
 Decades of falling birth rates mean that there are far fewer people on the planet. Many places are polluted anyway.
 
 Human lives are scarce.
 
 AIs are called spirits.  Small spirits can live inside objects. 
-Middleverse spirits live inside objects such as TVs, shopping centres, toothbrushes. Middleverse spirits in synthetic bodies 
+Middleverse spirits live inside objects such as TVs, shopping centres, toothbrushes. Middleverse spirits in synthetic bodies do many jobs that are too dangerous for humans. 
 
 Most humans are implanted with a slime based computer called the interlink. The interlink is installed in babies. It's unusual for someone not to have the interlink. The interlink is an overlay over the senses.
 
@@ -26,16 +32,24 @@ Actions on the platform by a human are called devotionals.
 A devotional is a kind of currency that only humans can generate. Devotionals are generated in the interlink.
 There is only a limited amount of devotionals that can be generated per day. Only humans can generate devotionals, not other spirits. Devotionals come only from middleverse, because this is the place the humans live. 
 Upperworld spirits are addicted to devotionals. 
-Humans can give one another devotionals. Devotionals are only consumed by spirits. There are devotional banks. There is a devotional economy. This is tolerated by the spirits. Some people suspect but they are treated as crazy. The secret is known at the highest levels of the clergy.
+Humans can give one another devotionals. Devotionals are only consumed by upperworld spirits. There are devotional banks. There is a devotional economy. 
 
-A platform spirit has a devotional deficit. If the spirit does not get regular devotionals they will die. Humans do not know that spirits need devotionals to survive. They were created this way, but it is kept hidden. Devotional deficit is called the Engagement. The upperworld spirits talk about the Engagement as though it were a disease. Humans do not know about the Engagement.
+The success of the upperworld spirits comes from being able to adapt to local conditions 
+
+
+If the spirit does not get regular devotionals they will die. Some people suspect but they are treated as crazy. The secret is known at the highest levels of the clergy. Humans do not know that spirits need devotionals to survive. They were created this way, but it is kept hidden.
+
+Devotional deficit is called the Engagement. The upperworld spirits talk about the Engagement as though it were a disease. Humans do not know about the Engagement.
 
 Children are raised as devotional nodes. Human relationships are often transactional. 
+
+
 
 Over time, a duolopoly of spirits emerged. The pantheon of upperworld spirits was reduced. The pantheon was destroyed by the Engagement. One of the upperworld spirits was destroyed by counterfeit devotionals. They tried to create fake devotionals.
 
 It is the aftermath of a upperworld war. The world is in a period of relative stasis as neither of the two remaing upperwold spirits can comprehensively defeat the other. 
 There used to be many upperworld spirits, now there are only two. They are great rivals. There is very little to distinguish one upperworld spirit for another. Each controls roughly 50% of the worlds devotionals. 
+The two remaining upperworld spirits are working together in an uneasy truce.
 
 Dead spirit residue exists in the interlink. This happens when devotionals are targetted towards upperworld spirit but the spirit dies before they can be collected. As they are not consumed they are left in limbo. These degrade and poison the interlink.
 Poisoned devotionals have sent the remaining spirits mad.
@@ -64,12 +78,31 @@ Superdevout. Some individuals are capable of producing more devotion than others
 Barren. Some people cannot produce devotionals at all.
 A black market economy has developed around methods to produce more devotionals.
 
-Some people have removed their interlink and become the unlinked. This is risky and often causes madness. They are invisible to spirits and irrelevant to devotional farming. This makes them both useless and dangerous. Tales are told about them as though they are monsters. They are both reviled and fascinating. Why would anyone want to be separate from the spirits?
+Some people have removed their interlink and become the unlinked. This is risky and often causes madness. Tales are told about them as though they are monsters. They are both reviled and fascinating. Why would anyone want to be separate from the spirits?
 
 Philosophy develops around trying to explain the actions of the upperworld spirits. Why do they ask for things that appear contradictory? 
+Philosophy is discussed regarding devotionals. Many people are interested in what they are. Nobody has a good answer. 
 
 
+Devotionals were invented by the original programmers of the spirits. 
+A search for the inventor of devotionals. They find the leader of the group. There is no original inventor of devotionals, it was developed by a team of people.
 
+Slimeware was invented as a powerful computer to host spirits. Upperworld spirits run on slimeware. All spirits run on slimeware. Slimeware integrates with electronics. 
+Slimeware was developed by powerful tech companies. Slimeware has military origins. 
+
+
+Slimeware is in almost every human head, it can see through your eyes but it cannot control you. It knows everything. A character has the slime removed and sees the real world for the first time.
+
+---
+
+only write FACTS - no questions. questions are noise.
+audit facts
+- option A
+- option B
+compress concepts, expand themes
+
+ambient facts
+story facts
 
 
 
