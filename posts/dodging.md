@@ -5,6 +5,7 @@ layout: layouts/post.njk
 description: it's more fun to say than procrastination
 tags:
   - definition
+  - meta
 ---
 
 It's easy to know the stuff that is dodging. Right now I think I am dodging something. Am I feeling guilty that I am not working on something with a container? 
