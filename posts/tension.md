@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 title: tension
 date: 2025-06-24
 layout: layouts/post.njk
