@@ -184,13 +184,20 @@ header:after {
   clear: both;
 }
 
-.hero {
-  padding: 2em;
-  background: rgb(2, 0, 36);
-  background: linear-gradient(238deg, #0080ff, #00f, #8000ff);
-  border-radius: 5px;
-  color: var(--purplewhite);
-  box-shadow: black 5px 5px 2px;
+.subtitle {
+  padding: 1em;
+  text-align: center;
+  margin: 1rem 0rem;
+
+  color: var(--purplemidgrey);
+}
+
+.description-home
+{
+  margin-top: 1.618rem;
+  color: var(--purplemidgrey);
+  
+
 }
 
 a {
@@ -201,8 +208,8 @@ a {
 
 
 
-.hero > h2 {
-  margin: 0;
+.subtitle > h2 {
+  margin: 0rem;
 }
 
 h1, h2 {
