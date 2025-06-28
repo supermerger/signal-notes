@@ -21,3 +21,15 @@ You cannot have 100% coherence. There must be some part of it that does not make
 Once you have a level of [coherence](coherence) that reaches [critical mass](critical%20mass.md) then perhaps it is time to start thinking about the events and characters that make up the plot.
 
 World building is a process of building up a set of facts, then introducing them in interesting ways. Show, don't tell. 
+
+---
+
+
+only write FACTS - no questions. questions are noise.
+audit facts
+- option A
+- option B
+compress concepts, expand themes
+
+ambient facts
+story facts
