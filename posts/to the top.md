@@ -16,9 +16,13 @@ Decades of falling birth rates mean that there are far fewer people on the plane
 Human lives are scarce.
 
 AIs are called spirits.  Small spirits can live inside objects. 
-Middleverse spirits live inside objects such as TVs, shopping centres, toothbrushes. Middleverse spirits in synthetic bodies do many jobs that are too dangerous for humans. 
+Middleverse spirits live inside objects such as TVs, shopping centres, toothbrushes. Middleverse spirits in synthetic bodies do many jobs instead of humans, especially ones that are too dangerous for humans. 
 
 Most humans are implanted with a slimeware computer called the interlink. The interlink is installed in babies. It's unusual for someone not to have the interlink. The interlink is an overlay over the senses.
+
+The interlink is also a wallet that can contain digital tokens. Tokens are used for money and fo
+
+The interlink provides access to the modern world. Without an interlink and the right tokens it is 
 
 Human experience is filtered and mediated through the interlink. Most people have never experienced raw input. Human brains are no longer wired for raw input. 
 
