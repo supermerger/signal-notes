@@ -1,7 +1,7 @@
 
 ## recents
 ```dataview
-table tags
+list
 from ""
 sort file.mtime desc
 ```
