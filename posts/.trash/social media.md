@@ -1,5 +1,4 @@
 ---
-draft: true
 title: 2025-06-24-1042
 date: 2025-06-24
 layout: layouts/post.njk
@@ -12,9 +11,7 @@ All publishing is attention seeking.
 
 I am honestly exhausted by the very idea of social media. I read somewhere about marketing being like oil in food. If you can see it dripping off, then you have used too much. 
 
-Is it possible for me to find a way to post on social media that doesn't drive me cra
-
-There is nothing really wrong with this. In a lot of people there is a need for both validation and autonomy. Like many [[tension]]s
+Is it possible for me to find a way to post on social media that doesn't drive me crazy
 
 Explicitly the purpose of this blog is to create [artefacts](artefacts.md) that generate attention and reputation for me. It's an attempt to post in a way that does not drive me crazy. It was never the people on social media that drove me crazy, it was the platforms.
 

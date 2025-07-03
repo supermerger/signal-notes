@@ -14,12 +14,22 @@ The idea is to simply *be*, to write not with the idea to *become* anything or *
 
 Mechanically practice writing until you have insane muscle memory connecting the brain and the words fizz off the fingers.
 
+
 Being sure that the right thing to do is simply to write and publish and write and publish until the direction becomes clear.
+
+---
 
 Any place is a good place for *actually writing*. Any time you're sitting and thinking about it and using a way to record things. 
 
+---
+
 Rule system is emergent
 Temporary rules for set pieces or desired outcomes
+
+---
+
+compress concepts, expand themes
+When you know enough about something to be able to express it simply, it can then be unfolded in different ways depending on situation, media and audience.
 
 ---
 

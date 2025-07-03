@@ -1,10 +1,9 @@
 ---
-draft: true
 date: 2025-06-26
 title: burnout
 layout: layouts/post.njk
 tags:
-  - untagged
+  - definition
 ---
 %%
 HAVE AN OPINION OR DELETE
