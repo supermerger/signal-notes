@@ -4,22 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "4509724f8bf84da7",
+        "id": "880c7496590e1b5b",
         "type": "tabs",
         "children": [
           {
-            "id": "e7a7b303c61786dc",
+            "id": "6c077bd5f18d68df",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "to the top.md",
-                "mode": "source",
+                "file": "META/home.md",
+                "mode": "preview",
                 "source": true,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "to the top"
+              "title": "home"
             }
           }
         ]
@@ -114,8 +114,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -125,16 +124,17 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "6c077bd5f18d68df",
   "lastOpenFiles": [
-    "The Glass Bead Game.md",
     "META/home.md",
+    "The Glass Bead Game.md",
+    "Untitled.md",
+    "to the top.md",
     "actually writing.md",
     "stress test.md",
     "2025-06-26-1042.md",
     "typography.md",
     "xythll.md",
-    "to the top.md",
     "coherence.md",
     "world building.md",
     "writing fiction.md",
@@ -154,7 +154,6 @@
     "META",
     "2025-06-26-0634.md",
     "artefacts.md",
-    "design.md",
     "mergerverse",
     "mergerverse",
     "named",
